@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1527018992 source:d:\programming\c++\fl\fast_bottom_up\main.cpp
+	<bits/stdc++.h>
+	<ctime>
+	"optimization.h"
+
+1526740268 d:\programming\c++\fl\fast_bottom_up\optimization.h
+	<cassert>
+	<cstdio>
+	<algorithm>
+
