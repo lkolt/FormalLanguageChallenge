@@ -1,0 +1,7 @@
+S1 : S Y
+S2 : X S
+S : S2 Y
+S : X S1
+S : X Y
+X : 2
+Y : 1
