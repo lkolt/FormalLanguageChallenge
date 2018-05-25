@@ -1,0 +1,11 @@
+S : G A | I Z | G C | I D
+B : E B | 5
+A : S T
+Z : S Q
+C : B T
+D : B Q
+E : 5
+G : 3
+I : 1
+Q : 2
+T : 4

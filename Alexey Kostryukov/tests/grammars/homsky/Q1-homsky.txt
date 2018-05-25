@@ -1,0 +1,7 @@
+S : C A | G B | C E | G I
+A : S E
+B : S I
+C : 4
+E : 3
+G : 2
+I : 1

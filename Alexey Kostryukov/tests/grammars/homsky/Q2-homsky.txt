@@ -1,0 +1,5 @@
+S : B A | 3
+B : E D | E A
+A : 3
+D : B A
+E : 4
